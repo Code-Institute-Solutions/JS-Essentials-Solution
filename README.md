@@ -1,6 +1,6 @@
 # Starter Maths Game
 
-This maths game is used to teach the basics of JavaScript and the DOM.
+This maths game is used to teach the basics of JavaScript and the DOM. This repo contains the solution to the REQUIRED (TESTED) problem - to create a division game that returns integers.
 
 ## REQUIRED (TESTED):
 
